@@ -1,3 +1,2 @@
 # REIT6811
-Applied Class-8 Task 
-
+Repo for REIT6811 Applied Class
